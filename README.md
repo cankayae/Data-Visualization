@@ -1,6 +1,6 @@
 # Data Visualization Of Volusia County Sale Analysis Data
 
-The data source of this project can be found at https://vcpa.vcgov.org/#gsc.tab=0
+The data source of this project can be found at https://vcpa.vcgov.org/#gsc.tab=0 
 Data was organized using PostgreSQL and QGIS to create a sale analysis table. Then, the relation between property sale prices and the time since sales took place was visualized using Tableau. Below, there are four figures depicting the relationship of the two main attributes, sale price and time. Two attributes that have an impact on this relationship were also included in the visuals. 
 
 ![Figure 1](https://user-images.githubusercontent.com/82909354/116007793-79854800-a5df-11eb-97e6-c79e054c2e04.png)
